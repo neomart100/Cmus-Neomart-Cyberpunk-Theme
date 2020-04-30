@@ -1,0 +1,67 @@
+# ":colorscheme Neomart-Cyberpunk.theme"
+#
+# Authored by: Neomart100 (https://github.com/neomart100)
+
+#---lINEA DE COMANDOS---
+set color_cmdline_bg=43
+#background
+set color_cmdline_fg=16
+
+# Color de la linea de comandos 
+set color_error=88
+
+# color de las cosas que escribes 
+set color_info=235
+
+# separador de las ventanas 
+set color_separator=105
+
+# Status line color.
+#Status seg,volumen,reprodccion
+set color_statusline_bg=37
+#Reproduccion
+set color_statusline_fg=15
+
+
+# Color de la pista de audio nombre
+#background
+set color_titleline_bg=105
+#texto
+set color_titleline_fg=8
+
+# --------FONDO-------
+set color_win_bg=235
+# color de la pista en reproduccion
+set color_win_cur=206
+
+#cuando las pistas se unen
+set color_win_cur_sel_bg=74
+#color de el texto
+set color_win_cur_sel_fg=25
+
+
+#directorios
+set color_win_dir=blue
+
+# Normal text
+set color_win_fg=38
+
+# -----Panel lateral----
+set color_win_inactive_cur_sel_bg=69
+set color_win_inactive_cur_sel_fg=89
+
+# Color cuando una ventana esta desactivada/activada
+set color_win_inactive_sel_bg=206
+set color_win_inactive_sel_fg=243
+
+# --Seleccion de musica
+#backgorund
+set color_win_sel_bg=105
+#texto
+set color_win_sel_fg=15
+
+# ----Color de la barra superior
+#backgorund
+set color_win_title_bg=93
+texto
+set color_win_title_fg=8
